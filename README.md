@@ -1,0 +1,1 @@
+# gutenberg-allowed-blocks
