@@ -7,8 +7,8 @@
 
 add_action('allowed_block_types', function(){
 return array(
-	//CUSTOM BLOCKS
-	'acf/ew-slider',
+    //CUSTOM BLOCKS
+    'acf/ew-slider',
     //COMMON BLOCKS
     'core/paragraph', //DOES ALSO APPLY TO INLINE IMAGES
     'core/image',
